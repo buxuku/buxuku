@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/buxuku/buxuku#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "nunjucks": "^3.2.2"
   }
 }
