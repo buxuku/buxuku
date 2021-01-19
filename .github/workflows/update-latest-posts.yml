@@ -1,7 +1,7 @@
 name: update latest posts
 on:
   schedule:
-    - cron: "* */1 * * *"
+    - cron: "*/1 * * * *"
 
 jobs:
   update-latest-posts:
