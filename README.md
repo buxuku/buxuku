@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Front-end developer** at  [buxuku](https://github.com/buxuku) 
+**Front-end developer** at  [buxuku](https://github.com/buxuku)
 
 ![Profile views](https://gpvc.arturio.dev/buxuku)  <img src="https://img.shields.io/github/followers/buxuku?label=Follow" style=" float:left, margin-right:10px" />
 
@@ -46,24 +46,24 @@
 ![update latest posts](https://github.com/buxuku/buxuku/workflows/update%20latest%20posts/badge.svg)
 
 
-- [正则表达式速记口诀](https://blog.linxiaodong.com/2021/01/17/regexp-memonic/)
+- [正则表达式速记口诀](https://github.com/buxuku/github-api/issues/58)
 
-- [mockjs使用的一些技巧](https://blog.linxiaodong.com/2017/10/12/mockjs-skills/)
+- [mockjs使用的一些技巧](https://github.com/buxuku/github-api/issues/57)
 
-- [使用git bisect进行二分法定位错误的提交](https://blog.linxiaodong.com/2017/10/03/git-bisect/)
+- [使用git bisect进行二分法定位错误的提交](https://github.com/buxuku/github-api/issues/56)
 
-- [在react-router v4中实现多个布局模板](https://blog.linxiaodong.com/2017/09/30/multiple-layouts-with-react-router-v4/)
+- [在react-router v4中实现多个布局模板](https://github.com/buxuku/github-api/issues/55)
 
-- [react从v15升级到v16](https://blog.linxiaodong.com/2017/09/29/update-react-from-v15-to-v16/)
+- [react从v15升级到v16](https://github.com/buxuku/github-api/issues/54)
 
-- [react-route从v3迁移到v4(折腾+踩坑)](https://blog.linxiaodong.com/2017/09/28/Migrating-react-route-v3-to-v4/)
+- [react-route从v3迁移到v4(折腾+踩坑)](https://github.com/buxuku/github-api/issues/53)
 
-- [在React中踩过的坑以及最佳实践](https://blog.linxiaodong.com/2017/09/25/React-pits-and-best-practices/)
+- [在React中踩过的坑以及最佳实践](https://github.com/buxuku/github-api/issues/52)
 
-- [利用git webhook 来同步更新代码](https://blog.linxiaodong.com/2017/09/22/use-git-webhook-to-update-website/)
+- [利用git webhook 来同步更新代码](https://github.com/buxuku/github-api/issues/51)
 
-- [webpack一步一步深入学习应用](https://blog.linxiaodong.com/2017/02/08/webpack-step-by-step/)
+- [webpack一步一步深入学习应用](https://github.com/buxuku/github-api/issues/50)
 
-- [用几行原生js代码写的九九乘法表](https://blog.linxiaodong.com/2016/10/26/a-Multiplication-Table-demo/)
+- [用几行原生js代码写的九九乘法表](https://github.com/buxuku/github-api/issues/49)
 
 
