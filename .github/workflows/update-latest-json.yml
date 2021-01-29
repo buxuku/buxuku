@@ -1,13 +1,11 @@
-name: update latest issues
+name: update latest posts
 on:
   push:
-    branches: [ main ]
-  schedule:
-    - cron: "* */1 * * *"
+    branches: [ test ]
 
 jobs:
   update-latest-posts:
-    name: update latest issues
+    name: update latest posts
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -19,9 +17,7 @@ jobs:
       - name: Install node dependencies
         run: yarn
       - name: Run node script
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: yarn issues
+        run: yarn build
       - name: Git setup
         run: git config --global user.email readme-bot@linxiaodong.com && git config --global user.name readme-bot
       - name: Git commit README.md file
