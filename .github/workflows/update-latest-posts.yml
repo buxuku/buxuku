@@ -2,8 +2,6 @@ name: update latest posts
 on:
   push:
     branches: [ test ]
-  schedule:
-    - cron: "* * */1 * *"
 
 jobs:
   update-latest-posts:

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "node index.js",
-    "issues": "node issues.js"
+    "issues": "node issue.js"
   },
   "repository": {
     "type": "git",
