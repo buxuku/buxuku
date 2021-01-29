@@ -46,24 +46,24 @@
 ![update latest posts](https://github.com/buxuku/buxuku/workflows/update%20latest%20posts/badge.svg)
 
 
-- [正则表达式速记口诀](https://github.com/buxuku/github-api/issues/58)
+- [正则表达式速记口诀](https://github.com/buxuku/buxuku.github.io/issues/61)
 
-- [mockjs使用的一些技巧](https://github.com/buxuku/github-api/issues/57)
+- [mockjs使用的一些技巧](https://github.com/buxuku/buxuku.github.io/issues/60)
 
-- [使用git bisect进行二分法定位错误的提交](https://github.com/buxuku/github-api/issues/56)
+- [使用git bisect进行二分法定位错误的提交](https://github.com/buxuku/buxuku.github.io/issues/59)
 
-- [在react-router v4中实现多个布局模板](https://github.com/buxuku/github-api/issues/55)
+- [在react-router v4中实现多个布局模板](https://github.com/buxuku/buxuku.github.io/issues/58)
 
-- [react从v15升级到v16](https://github.com/buxuku/github-api/issues/54)
+- [react从v15升级到v16](https://github.com/buxuku/buxuku.github.io/issues/57)
 
-- [react-route从v3迁移到v4(折腾+踩坑)](https://github.com/buxuku/github-api/issues/53)
+- [react-route从v3迁移到v4(折腾+踩坑)](https://github.com/buxuku/buxuku.github.io/issues/56)
 
-- [在React中踩过的坑以及最佳实践](https://github.com/buxuku/github-api/issues/52)
+- [在React中踩过的坑以及最佳实践](https://github.com/buxuku/buxuku.github.io/issues/55)
 
-- [利用git webhook 来同步更新代码](https://github.com/buxuku/github-api/issues/51)
+- [利用git webhook 来同步更新代码](https://github.com/buxuku/buxuku.github.io/issues/54)
 
-- [webpack一步一步深入学习应用](https://github.com/buxuku/github-api/issues/50)
+- [webpack一步一步深入学习应用](https://github.com/buxuku/buxuku.github.io/issues/53)
 
-- [用几行原生js代码写的九九乘法表](https://github.com/buxuku/github-api/issues/49)
+- [用几行原生js代码写的九九乘法表](https://github.com/buxuku/buxuku.github.io/issues/52)
 
 
