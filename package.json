@@ -4,7 +4,8 @@
   "description": "About me",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js"
+    "build": "node index.js",
+    "issues": "node issues.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/buxuku/buxuku#readme",
   "dependencies": {
+    "@octokit/rest": "^18.0.15",
     "axios": "^0.21.1",
     "nunjucks": "^3.2.2"
   }
