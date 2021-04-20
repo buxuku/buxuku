@@ -46,6 +46,8 @@
 ![update latest posts](https://github.com/buxuku/buxuku/workflows/update%20latest%20posts/badge.svg)
 
 
+- [about | 林晓东的个人博客](https://github.com/buxuku/buxuku.github.io/issues/62)
+
 - [正则表达式速记口诀](https://github.com/buxuku/buxuku.github.io/issues/61)
 
 - [mockjs使用的一些技巧](https://github.com/buxuku/buxuku.github.io/issues/60)
@@ -63,7 +65,5 @@
 - [利用git webhook 来同步更新代码](https://github.com/buxuku/buxuku.github.io/issues/54)
 
 - [webpack一步一步深入学习应用](https://github.com/buxuku/buxuku.github.io/issues/53)
-
-- [用几行原生js代码写的九九乘法表](https://github.com/buxuku/buxuku.github.io/issues/52)
 
 
