@@ -46,6 +46,8 @@
 ![update latest posts](https://github.com/buxuku/buxuku/workflows/update%20latest%20posts/badge.svg)
 
 
+- [build(deps): bump striptags from 3.1.1 to 3.2.0](https://github.com/buxuku/buxuku.github.io/pull/64)
+
 - [build(deps): bump glob-parent from 5.1.1 to 5.1.2](https://github.com/buxuku/buxuku.github.io/pull/63)
 
 - [正则表达式速记口诀](https://github.com/buxuku/buxuku.github.io/issues/61)
@@ -63,7 +65,5 @@
 - [在React中踩过的坑以及最佳实践](https://github.com/buxuku/buxuku.github.io/issues/55)
 
 - [利用git webhook 来同步更新代码](https://github.com/buxuku/buxuku.github.io/issues/54)
-
-- [webpack一步一步深入学习应用](https://github.com/buxuku/buxuku.github.io/issues/53)
 
 
