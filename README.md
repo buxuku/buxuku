@@ -50,8 +50,6 @@
 
 - [build(deps): bump striptags from 3.1.1 to 3.2.0](https://github.com/buxuku/buxuku.github.io/pull/64)
 
-- [build(deps): bump glob-parent from 5.1.1 to 5.1.2](https://github.com/buxuku/buxuku.github.io/pull/63)
-
 - [正则表达式速记口诀](https://github.com/buxuku/buxuku.github.io/issues/61)
 
 - [mockjs使用的一些技巧](https://github.com/buxuku/buxuku.github.io/issues/60)
@@ -65,5 +63,7 @@
 - [react-route从v3迁移到v4(折腾+踩坑)](https://github.com/buxuku/buxuku.github.io/issues/56)
 
 - [在React中踩过的坑以及最佳实践](https://github.com/buxuku/buxuku.github.io/issues/55)
+
+- [利用git webhook 来同步更新代码](https://github.com/buxuku/buxuku.github.io/issues/54)
 
 
