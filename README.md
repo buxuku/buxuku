@@ -46,6 +46,8 @@
 ![update latest posts](https://github.com/buxuku/buxuku/workflows/update%20latest%20posts/badge.svg)
 
 
+- [build(deps): bump path-parse from 1.0.6 to 1.0.7](https://github.com/buxuku/buxuku.github.io/pull/66)
+
 - [build(deps): bump prismjs from 1.23.0 to 1.24.0](https://github.com/buxuku/buxuku.github.io/pull/65)
 
 - [build(deps): bump striptags from 3.1.1 to 3.2.0](https://github.com/buxuku/buxuku.github.io/pull/64)
@@ -63,7 +65,5 @@
 - [react-route从v3迁移到v4(折腾+踩坑)](https://github.com/buxuku/buxuku.github.io/issues/56)
 
 - [在React中踩过的坑以及最佳实践](https://github.com/buxuku/buxuku.github.io/issues/55)
-
-- [利用git webhook 来同步更新代码](https://github.com/buxuku/buxuku.github.io/issues/54)
 
 
