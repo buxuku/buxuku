@@ -46,9 +46,9 @@
 ![update latest posts](https://github.com/buxuku/buxuku/workflows/update%20latest%20posts/badge.svg)
 
 
-- [build(deps): bump path-parse from 1.0.6 to 1.0.7](https://github.com/buxuku/buxuku.github.io/pull/66)
+- [build(deps): bump prismjs from 1.23.0 to 1.25.0](https://github.com/buxuku/buxuku.github.io/pull/67)
 
-- [build(deps): bump prismjs from 1.23.0 to 1.24.0](https://github.com/buxuku/buxuku.github.io/pull/65)
+- [build(deps): bump path-parse from 1.0.6 to 1.0.7](https://github.com/buxuku/buxuku.github.io/pull/66)
 
 - [build(deps): bump striptags from 3.1.1 to 3.2.0](https://github.com/buxuku/buxuku.github.io/pull/64)
 
@@ -65,5 +65,45 @@
 - [react-route从v3迁移到v4(折腾+踩坑)](https://github.com/buxuku/buxuku.github.io/issues/56)
 
 - [在React中踩过的坑以及最佳实践](https://github.com/buxuku/buxuku.github.io/issues/55)
+
+- [利用git webhook 来同步更新代码](https://github.com/buxuku/buxuku.github.io/issues/54)
+
+- [webpack一步一步深入学习应用](https://github.com/buxuku/buxuku.github.io/issues/53)
+
+- [用几行原生js代码写的九九乘法表](https://github.com/buxuku/buxuku.github.io/issues/52)
+
+- [用面向过程和面向对象写一个拖拽demo](https://github.com/buxuku/buxuku.github.io/issues/51)
+
+- [用面向过程和面向对象方式写的一个tao标签卡demo](https://github.com/buxuku/buxuku.github.io/issues/50)
+
+- [nodejs之npm包管理不完全手记](https://github.com/buxuku/buxuku.github.io/issues/49)
+
+- [js中闭包变量的问题](https://github.com/buxuku/buxuku.github.io/issues/48)
+
+- [js中数组去重的方法](https://github.com/buxuku/buxuku.github.io/issues/47)
+
+- [js中闭包变量问题的解决方法](https://github.com/buxuku/buxuku.github.io/issues/46)
+
+- [通过call轻松理解this](https://github.com/buxuku/buxuku.github.io/issues/45)
+
+- [javascript中的词法作用域](https://github.com/buxuku/buxuku.github.io/issues/44)
+
+- [不使用var就不是声明变量](https://github.com/buxuku/buxuku.github.io/issues/43)
+
+- [jsbin神一般地在线书写，测试，分享代码](https://github.com/buxuku/buxuku.github.io/issues/42)
+
+- [利用gulp,browser-sync,workspace更快捷地进行前端开发](https://github.com/buxuku/buxuku.github.io/issues/41)
+
+- [javascript中继承的几种方式](https://github.com/buxuku/buxuku.github.io/issues/40)
+
+- [javacript中创建对象的几种方式](https://github.com/buxuku/buxuku.github.io/issues/39)
+
+- [理解js中函数参数是按值传递而非按引用传递](https://github.com/buxuku/buxuku.github.io/issues/38)
+
+- [javascript中当数字遇上了字符](https://github.com/buxuku/buxuku.github.io/issues/37)
+
+- [如何优雅地在mardown中插入表格](https://github.com/buxuku/buxuku.github.io/issues/36)
+
+- [javascript中数据类型转换那点事](https://github.com/buxuku/buxuku.github.io/issues/35)
 
 
